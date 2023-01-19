@@ -1,0 +1,1 @@
+This section creates a dockercontainer that deploys web application that counts the number of times that the webpage has been visited. Redis-server stores the data of how many times page has been visited.
